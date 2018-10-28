@@ -1,0 +1,22 @@
+{
+  "name": "express-gateway-plugin-elasticsearch",
+  "version": "0.0.3",
+  "description": "Elasticsearch - index to elasticsearch",
+  "main": "manifest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zvi Lapp",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "elasticsearch": "^15.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0"
+  }
+}
